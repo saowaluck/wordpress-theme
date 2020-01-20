@@ -14,7 +14,6 @@ wp_enqueue_style( 'Bootstrap4' );
 # see more detail in https://developer.wordpress.org/plugins/post-types/registering-custom-post-types/
 # has_archieve for include team member post type to show in archive page and re save permalink
 
-
 // function team_member_custom_post_type() {
 //     $post_type = 'team-members';
 //     $args = array(
